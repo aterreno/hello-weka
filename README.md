@@ -1,14 +1,5 @@
 # hello-weka
 
-A Clojure library designed to ... well, that part is up to you.
+- Simple hello world that actually just transforms a csv file into an arff file.
 
-## Usage
-
-FIXME
-
-## License
-
-Copyright © 2013 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+- CSV file needs to be properly formatted CSV, hence the cleanup.sh script
